@@ -12,7 +12,7 @@
 
     <name>Batch 08 DevOps Training</name>
 
-    <!-- ✅ Updated Java version i amii nitin to submit assigment -->
+    <!-- ✅ Updated Java version i amii nitin to submit assigment 2nd time pollscm-->
     <properties>
         <maven.compiler.source>17</maven.compiler.source>
         <maven.compiler.target>17</maven.compiler.target>
