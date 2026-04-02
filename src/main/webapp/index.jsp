@@ -26,7 +26,7 @@
         <div class="loading-text">INITIALIZING DEVOPS MASTERCLASS...</div>
     </div>
 
-    <!-- Top Navigation -->
+    <!-- Top Navigation   this is to see the build happens once i commit change -->
     <nav class="top-nav">
         <div class="container">
             <div class="nav-content">
