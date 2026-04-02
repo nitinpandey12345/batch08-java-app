@@ -12,7 +12,7 @@
 
     <name>Batch 08 DevOps Training</name>
 
-    <!-- ✅ Updated Java version I am writing to see poll scm -->
+    <!-- ✅ Updated Java version i am nitin to submit assigment -->
     <properties>
         <maven.compiler.source>17</maven.compiler.source>
         <maven.compiler.target>17</maven.compiler.target>
